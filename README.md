@@ -2,39 +2,38 @@ Hospital Management System
 
 This is a full stack hospital management system made for a database systems project. It uses PHP for the backend, HTML, CSS, and JavaScript for the frontend, and Microsoft SQL Server for the database.
 
-The project is based on IVOR Paine Memorial Hospital. It helps show hospital data such as patients, doctors, wards, care units, treatment records, complaints, and consultant teams.
+The project helps show hospital data such as patients, doctors, wards, care units, treatment records, complaints, and consultant teams.
 
-Project Features
+Project Features:
+1) View a hospital dashboard with live database counts.
 
-View a hospital dashboard with live database counts.
+2) View patient records.
 
-View patient records.
+3) View ward records and admitted patients.
 
-View ward records and admitted patients.
+4) View consultant team details.
 
-View consultant team details.
+5) Run the required SQL Server queries from the web interface.
 
-Run the required SQL Server queries from the web interface.
+6) Show recent treatment records.
 
-Show recent treatment records.
+7) Show complaint summary and ward occupancy.
 
-Show complaint summary and ward occupancy.
 
 Technologies Used
 
-HTML
+1) HTML
 
-CSS
+2) CSS
 
-JavaScript
+3) JavaScript
 
-PHP
+4) PHP
 
-Microsoft SQL Server
+5) Microsoft SQL Server
 
-PHP SQLSRV extension
 
-Project Structure
+Project Structure:
 
 The hospital folder contains the PHP web application.
 
@@ -46,7 +45,8 @@ The sql folder contains the database scripts.
 
 The PDF files contain the normalization and table description documents.
 
-Database Files
+
+Database Files:
 
 The project includes SQL scripts for creating the database tables, inserting initial data, and running project queries.
 
@@ -56,7 +56,8 @@ Use the insertion script to add sample data.
 
 Use the queries script to view the required SQL queries.
 
-How To Run
+
+How To Run:
 
 Install Microsoft SQL Server.
 
